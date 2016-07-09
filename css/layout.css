@@ -78,7 +78,19 @@ body {
 	font: 14px/22px "微软雅黑";
 	letter-spacing: 3px;
 }
-
+.myNews {
+	width: 375px;
+	height: 381px;
+	background: rgb(109, 214, 203);
+	margin: 5px 15px 0 0;
+	/* box-shadow: 1px 1px #ccc,inset 1px 1px #999; */
+	padding: 5px 10px;
+	box-sizing: border-box;
+	color: white;
+	font-size: 20px;
+	letter-spacing: 3px;
+	line-height: 30px;
+}
 
 
 
