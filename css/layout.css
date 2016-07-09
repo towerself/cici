@@ -15,7 +15,7 @@ body {
 	margin: auto;
 	width: 500px;
 	height: 500px;
-	background-color: cyan;
+	background-color: #fff800;
 }
 .listNavBar {
 	margin: 5px 0px -5px 5px;
@@ -30,7 +30,7 @@ body {
 	font-weight: bold;
 	text-align: center;
 	line-height: 30px;
-	background: yellow;
+	background: #ffffff;
 	transform-origin: left top;
 	transition: all .1s cubic-bezier(0.47, 0.03, 0, 1.15);
 }
